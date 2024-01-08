@@ -1,0 +1,13 @@
+body{
+    background-color: #f78f82;
+}
+
+#mainBox{
+    height: 75px;
+    width: 50px;
+    background:white;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+   
+  

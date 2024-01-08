@@ -1,0 +1,21 @@
+body{
+    background-color: #ac061d;
+}
+#div1{
+    text-align: center;
+   
+}
+#div2{
+    text-align: center;
+    display: flex;
+   align-items: center;
+}
+#div3{
+    margin: 50px;
+    text-align: center;
+    display: flex;
+   align-items: center
+}
+#div4{
+   text-align: center;
+}
