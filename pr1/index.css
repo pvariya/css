@@ -7,10 +7,17 @@ body {
     background: #E5E1DA;
 }
 
+#img {
+    padding-top: 7px;
+    padding-left: 7px;
+}
+
 #header {
     height: 80px;
+    width: 100%;
     background: #43766C;
     display: flex;
+    justify-content: space-between;
 
 }
 
@@ -18,6 +25,7 @@ body {
     display: flex;
     justify-content: center;
     margin-top: 100px;
+    margin-left: 70px;
 }
 
 .box {
@@ -26,24 +34,76 @@ body {
     background: #FBF9F1;
     margin-right: 100px;
     border-radius: 5px;
+    flex-direction: column;
+    position: relative;
 }
 
 #header-in {
+    width: 40%;
     display: flex;
-    position: relative;
-    left: 1200px;
-    padding-top: 27px;
+    align-items: center;
+    justify-content: space-evenly;
 }
 
 .font {
     font-size: 20px;
-    padding-right: 30px;
-    padding-left: 10px;
+    padding-left: 4px;
     color: white;
 }
 
-#img {
-    margin-top: 7px;
-    margin-left: 8px;
-    justify-content: start;
+
+.flex {
+    justify-content: center;
+    align-content: center;
+    padding: 10px;
+    transition: all 0.3s;
+}
+
+.flex:hover {
+
+    background-color: #E5E1DA;
+    border-radius: 10px;
+
+    .font:hover {
+        color: black;
+    }
+}
+
+a {
+    text-decoration: none;
+}
+
+.img2 {
+    padding-left: 50px;
+    display: block;
+    transition: 0.3s;
+}
+
+.button {
+    width: 100px;
+    height: 35px;
+    background-color: #43766C;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 50px;
+    left: 73px;
+}
+
+.button:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.name {
+    font-size: 20px;
+    text-align: center;
+}
+
+.buy {
+    color: white;
+}
+
+.img2:hover {
+    height: 210px;
+    transform: rotate(45deg);
+
 }
