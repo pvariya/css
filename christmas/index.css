@@ -1,21 +1,32 @@
-body{
-    background-color: #ac061d;
-}
-#div1{
-    text-align: center;
-   
-}
-#div2{
-    text-align: center;
-    display: flex;
-   align-items: center;
-}
-#div3{
-    margin: 50px;
-    text-align: center;
-    display: flex;
-   align-items: center
-}
-#div4{
-   text-align: center;
-}
+    body {
+        background-color: #BED8FC;
+    }
+    
+    .flex {
+        display: flex;
+    }
+    
+    .imgL {
+        padding-left: 50px;
+        :
+    }
+    
+    .pR {
+        padding-top: 80px;
+    }
+    
+    .imgR {}
+    
+    .pL {
+        padding-left: 50px;
+        padding-top: 80px;
+    }
+    
+    #bigDiv {
+        display: flex;
+    }
+    
+    #gifDiv {
+        margin-top: 280px;
+        margin-left: 290px;
+    }

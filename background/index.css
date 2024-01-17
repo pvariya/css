@@ -1,0 +1,74 @@
+            body {
+                background-color: #F2F1EB;
+            }
+            
+            #Div1 {
+                height: 200px;
+                background-color: #AFC8AD;
+                margin: 20px;
+                display: flex;
+            }
+            
+            #Div2 {
+                height: 200px;
+                background-color: #AFC8AD;
+                margin: 20px;
+                display: flex;
+            }
+            
+            #Div3 {
+                height: 200px;
+                background-color: #AFC8AD;
+                margin: 20px;
+                display: flex;
+            }
+            
+            #img1 {
+                padding-top: 27px;
+                padding-left: 10px;
+            }
+            
+            #img2 {
+                padding-top: 35px;
+                padding-left: 25px;
+            }
+            
+            #img3 {
+                padding-top: 10px;
+            }
+            
+            .InBox {
+                height: 150px;
+                width: 1600px;
+                background-color: #EEE7DA;
+                margin-top: 25px;
+                margin-left: 80px;
+                border-radius: 5px;
+            }
+            
+            #InBox1 {
+                height: 150px;
+                width: 1600px;
+                background-color: #EEE7DA;
+                margin-top: 25px;
+                margin-left: 50px;
+                border-radius: 5px;
+            }
+            
+            #p1 {
+                font-size: 20px;
+                text-align: center;
+                padding-top: 8px;
+            }
+            
+            #p2 {
+                font-size: 20px;
+                text-align: center;
+                padding-top: 8px;
+            }
+            
+            #p3 {
+                font-size: 20px;
+                text-align: center;
+                padding-top: 8px;
+            }

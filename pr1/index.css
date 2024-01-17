@@ -1,0 +1,49 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background: #E5E1DA;
+}
+
+#header {
+    height: 80px;
+    background: #43766C;
+    display: flex;
+
+}
+
+.main-box {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.box {
+    height: 350px;
+    width: 250px;
+    background: #FBF9F1;
+    margin-right: 100px;
+    border-radius: 5px;
+}
+
+#header-in {
+    display: flex;
+    position: relative;
+    left: 1200px;
+    padding-top: 27px;
+}
+
+.font {
+    font-size: 20px;
+    padding-right: 30px;
+    padding-left: 10px;
+    color: white;
+}
+
+#img {
+    margin-top: 7px;
+    margin-left: 8px;
+    justify-content: start;
+}
