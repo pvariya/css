@@ -1,0 +1,141 @@
+body {
+  padding: 0%;
+  margin: 0%;
+}
+#header {
+  height: 100px;
+  background-color: #EFEFEF;
+  position: static;
+  display: flex;
+  justify-content:space-around ;
+  align-items: center;
+}
+#new{
+    display: flex;
+    font-family:"open_sanssemibold", Arial, sans-serif ;
+}
+#ne{
+    font-weight: bolder ;
+    font-size: 25px;
+}
+#w{
+    font-size: 25px;
+    padding-top: 25px;
+    padding-left: 1x;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+#name{
+    display: flex;
+}
+.hesderText{
+    text-decoration: none;
+    font-family:"open_sanssemibold", Arial, sans-serif ;
+    padding-left: 20px;
+    font-weight: 500;
+    color: black;
+}
+#img1 {
+  height: 50%;
+  width: 100%;
+}
+#imgH1 {
+  font-family: "open_sanssemibold", Arial, sans-serif;
+  text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+#font{
+    font-weight: 200;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+#span{
+    font-weight: bolder;
+    padding-top:px;
+    padding-left: 10px;
+    font-size: 40px;
+    text-decoration: underline;
+}
+#about-us{
+   display: flex;
+   justify-content: center;
+   margin-top: 100px;
+}
+#aboutUs-text{
+    font-family:"open_sanssemibold", Arial, sans-serif ;
+    text-align: center;
+    font-weight: 100;
+    font-size: 20px;
+    padding-top: 10px
+}
+#us{
+    font-size: 30px;
+    font-family:"open_sanssemibold", Arial, sans-serif; 
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 15px;
+    text-decoration:underline;
+}
+#N-AG{
+    font-family:"open_sanssemibold", Arial, sans-serif ;
+    font-weight: bolder;
+}
+#p1{
+    line-height: 30px;
+    text-align: center;
+    font-family: "open_sanssemibold", Arial, sans-serif ;
+    font-size: 10x;
+}
+#about-p{
+    margin-top: 60px;
+    justify-content: center;
+}
+#about-box{
+    height:40px;
+    width: 230px;
+    border: 2px solid black;
+    margin-top: 100px;
+    margin-left: 840px;
+    border-radius: 3px;
+}
+#portF{
+    font-family:"open_sanssemibold", Arial, sans-serif ;
+    text-align: center;
+    margin-left: 70px;
+    font-weight:600;
+    text-decoration: none;
+    color: black;
+}
+#lint{
+    margin: 200px;
+    padding: 20px;
+}
+#ourtme-title{
+    text-align: center;
+    margin-bottom: 50px;
+}
+#ourTime{
+    display: flex;
+    justify-content: center;
+}
+#ourtime-name{
+    font-family: 'open_sansbold', Arial, sans-serif;
+    font-weight: 300;
+}
+.timeText{
+    font-family: 'open_sansbold', Arial, sans-serif;
+    text-align: center;
+    font-weight: 600;   
+}
+.ourtimeImg{
+    padding-left: 20px;
+   
+}
+.timeText2{
+    font-style: italic;
+    text-align: center;
+    line-height: 2px;
+}
